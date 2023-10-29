@@ -3,3 +3,5 @@
 <img width="673" alt="Capture" src="https://github.com/ZeeshanJumabhoy/PF-Project-Semester-1/assets/104393686/b32fd64f-9f90-40df-929b-6d4569ff94f2">
 <img width="671" alt="Capture1" src="https://github.com/ZeeshanJumabhoy/PF-Project-Semester-1/assets/104393686/8c09f08b-cf65-44e8-a770-90a464b16555">
 <img width="660" alt="Capture2" src="https://github.com/ZeeshanJumabhoy/PF-Project-Semester-1/assets/104393686/12c70106-535e-44b2-b9fc-dd31771da3b5">
+<img width="657" alt="Capture3" src="https://github.com/ZeeshanJumabhoy/PF-Project-Semester-1/assets/104393686/8693344a-dad7-42e3-8a69-ed1fb14c7bb2">
+<img width="643" alt="Capture4" src="https://github.com/ZeeshanJumabhoy/PF-Project-Semester-1/assets/104393686/e136ce26-08d3-4019-8ef0-ac7a507d4194">
